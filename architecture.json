@@ -1,0 +1,160 @@
+{
+  "book_id": "african_independence_satirical_prose_freedom_constraint",
+  "title": "The Clock That Chose Four-Seventeen",
+  "tagline": "A nation is born not on schedule, but in the glorious, chaotic traffic jam of its own making.",
+  "target_words": 70000,
+  "actual_words": 75523,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bureaucracy of Liberation",
+    "The Satire of Inherited Systems",
+    "The Constraint of Symbolic Freedom",
+    "The Chaotic Vitality of Self-Determination"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ceremonial Clock",
+      "words": 3147
+    },
+    {
+      "ch": 2,
+      "title": "The Committee of National Nomenclature",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "A Taxonomy of Flagpoles",
+      "words": 3150
+    },
+    {
+      "ch": 4,
+      "title": "The Ministry of Light and Progress Cracks",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "Sir Geoffrey's Pocket Watch",
+      "words": 3050
+    },
+    {
+      "ch": 6,
+      "title": "Negotiating with the Peugeot 404 Float",
+      "words": 3300
+    },
+    {
+      "ch": 7,
+      "title": "The Unapproved Drum Rhythm",
+      "words": 3123
+    },
+    {
+      "ch": 8,
+      "title": "Protocol for a Palanquin",
+      "words": 2980
+    },
+    {
+      "ch": 9,
+      "title": "The Sovereignty of Cash vs. Credit",
+      "words": 3250
+    },
+    {
+      "ch": 10,
+      "title": "Architectural Acclimatization",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Gastric Distress of Mr. Gruber",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "A Taxonomy of Uniform Melting",
+      "words": 3150
+    },
+    {
+      "ch": 13,
+      "title": "The Subcommittee on Dawn Metaphors",
+      "words": 3050
+    },
+    {
+      "ch": 14,
+      "title": "Liberation Boulevard's First Jam",
+      "words": 3400
+    },
+    {
+      "ch": 15,
+      "title": "The Sunglasses Seller's Prospectus",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "Auditing the Interlocking Cocoa Pods",
+      "words": 3100
+    },
+    {
+      "ch": 17,
+      "title": "The Whisper Network of Aides",
+      "words": 3000
+    },
+    {
+      "ch": 18,
+      "title": "A History in Folded Programs",
+      "words": 3200
+    },
+    {
+      "ch": 19,
+      "title": "The Bandmaster's Sheet Music Rebellion",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Grammar of Unspoken Sighs",
+      "words": 3150
+    },
+    {
+      "ch": 21,
+      "title": "Painted by Benjamin & Sons",
+      "words": 3050
+    },
+    {
+      "ch": 22,
+      "title": "The Spine of a New Country",
+      "words": 3300
+    },
+    {
+      "ch": 23,
+      "title": "Calibrating a Nation's Tempo",
+      "words": 3123
+    },
+    {
+      "ch": 24,
+      "title": "The First Minute of African Time",
+      "words": 3000
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a newly independent ministry must use the colonial rulebook to justify breaking a colonial rule.",
+      "Create the minutes from the 'Committee on National Symbol Acclimatization' debating why the imported national bird seems depressed.",
+      "Draft a series of increasingly frantic internal memos from the 'Department of Temporal Integrity' as all the new nation's clocks begin to show different, but equally symbolic, wrong times.",
+      "Write a monologue from the perspective of the Independence Arch itself, observing the chaotic parade and the weight of expectation."
+    ],
+    "technical": [
+      "Build a 'Ceremonial Clock Simulator' that visually and audibly breaks down in artistically symbolic ways based on user-inputted political or social stressors.",
+      "Create a generative text tool that produces satirical government memos and committee reports based on themes of bureaucratic paradox and post-colonial constraint."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Chinua Achebe",
+      "Kurt Vonnegut",
+      "Franz Kafka",
+      "Ngũgĩ wa Thiong'o"
+    ]
+  },
+  "cover_prompt": "A monumental, ornate colonial-era clock tower, its face permanently frozen at four-seventeen, stands in a sun-baked public square, its gears visibly overflowing not with time but with a tangled, vibrant jungle of tropical vines, protest signs, and bureaucratic paperwork, [Detailed Scene & Context]. In the foreground, a chaotic yet purposeful traffic jam of brightly painted minibuses, bicycles, and citizens carrying impossible loads converges, symbolizing a nation's messy, self-determined birth, all rendered in the richly textured, magically realist style of Ben Enwonwu and the satirical, detailed precision of George Condo, [Artistic Style & Medium]. Book cover framing, centered on the clock tower with a low-angle, heroic perspective that emphasizes its imposing yet absurd nature, the chaotic vitality swirling around its base, [Composition & Camera]. Dramatic, golden-hour sunlight with long, stark shadows cuts through the dust-filled air, casting a warm, hopeful glow on the scene below, color palette of colonial faded pastels clashing with vibrant African wax-print hues and lush greens, [Lighting & Color Palette]. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev, [Quality & Technical Enforcers]."
+}
