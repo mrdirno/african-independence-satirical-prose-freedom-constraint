@@ -2,7 +2,8 @@
 
 ## **CHAPTER ONE**
 
-The first thing to understand about the ceremony was that the clock was wrong. Not metaphorically—though that too, obviously—but physically. The great ceremonial clock, shipped from Switzerland at a cost that could have fed the Ministry of Agriculture for a month, had been mounted atop the new Independence Arch the previous night. Its elegant white face and gilt hands were meant to tick in serene European unison with the birth of the nation. Instead, it read 4:17 PM. The independence parade was scheduled for 10:00 AM. The sun, a furious, indifferent disc, hung directly overhead, baking the tarmac, the new flag, the starch out of the colonial-era uniforms. The clock, in its profound, expensive error, had simply given up and chosen a random, cooler time of day.
+Freedom was a typewriter missing the 'E' key. Comrade Mbeki discovered this on Independence Morning, hammering out the victory speech with revolutionary fervor. *Peopl of th nw nation*, he typed, the gap a tiny black mouth swallowing his triumph. The manifesto, it seemed, would be constrained by logistics.
+
 
 President-for-Installation Kwame Kojo watched it from the shaded podium, a bead of sweat tracing a deliberate path from his temple, down the side of his cheek, and into the stiff collar of his ceremonial *agbada*. The gold thread embroidery, depicting interlocking cocoa pods and stars, itched abominably.
 
